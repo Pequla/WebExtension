@@ -1,0 +1,6 @@
+name: WebExtension
+version: '${project.version}'
+main: com.pequla.web.extension.WebExtension
+api-version: 1.18
+authors: [ Pequla ]
+website: https://pequla.com/plugins

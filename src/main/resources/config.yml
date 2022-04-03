@@ -1,0 +1,4 @@
+port: 9090
+rcon:
+  enabled: true
+  key: Wk4leuWwPvFSwLqKxevM7hxMZqHhqJr3r8NJYane
